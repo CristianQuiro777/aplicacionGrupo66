@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aplicacionGrupo66</string>
+    <string name="txtv_usuario">user</string>
+    <string name="edit_usuario">input user</string>
+    <string name="txtv_clave">password</string>
+    <string name="edit_clave">input you password </string>
+    <string name="btn_ingresar">login </string>
+</resources>
