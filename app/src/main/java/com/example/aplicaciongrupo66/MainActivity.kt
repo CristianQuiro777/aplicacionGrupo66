@@ -18,6 +18,7 @@ class MainActivity: AppCompatActivity() {
 
         val intento= Intent(this,welcomActivity2::class.java)
         startActivity(intento)
-
+       //hay que  hacer
+       //Prueba segundo commit
     }
 }
